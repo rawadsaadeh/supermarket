@@ -1,0 +1,186 @@
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\bin\Release\Supermarketapp.exe.config
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\bin\Release\billing.cs
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\bin\Release\Supermarketapp.exe
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\bin\Release\Supermarketapp.pdb
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\obj\Release\Supermarketapp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\obj\Release\Supermarketapp.Home_Emp.resources
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\obj\Release\Supermarketapp.HomeMan.resources
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\obj\Release\Supermarketapp.Invoices.resources
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\obj\Release\Supermarketapp.items.resources
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\obj\Release\Supermarketapp.Login.resources
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\obj\Release\Supermarketapp.Properties.Resources.resources
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\obj\Release\Supermarketapp.Reports.resources
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\obj\Release\Supermarketapp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\obj\Release\Supermarketapp.exe
+C:\Users\User\Desktop\for nadim\v.21\Supermarketapp\obj\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\bin\Release\Supermarketapp.exe.config
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\obj\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\obj\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\bin\Release\billing.cs
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\bin\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\bin\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\bin\Release\MySql.Data.DLL
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\obj\Release\Supermarketapp.Home_Emp.resources
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\obj\Release\Supermarketapp.HomeMan.resources
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\obj\Release\Supermarketapp.Invoices.resources
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\obj\Release\Supermarketapp.items.resources
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\obj\Release\Supermarketapp.Login.resources
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\obj\Release\Supermarketapp.Properties.Resources.resources
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\obj\Release\Supermarketapp.Reports.resources
+C:\Users\Rawad\Desktop\wassim super\supermartket_wassim\v.21\Supermarketapp\obj\Release\Supermarketapp.csproj.GenerateResource.Cache
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\bin\Release\Supermarketapp.exe.config
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\obj\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\obj\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\bin\Release\billing.cs
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\bin\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\bin\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\bin\Release\MySql.Data.DLL
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\obj\Release\Supermarketapp.Home_Emp.resources
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\obj\Release\Supermarketapp.HomeMan.resources
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\obj\Release\Supermarketapp.Invoices.resources
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\obj\Release\Supermarketapp.items.resources
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\obj\Release\Supermarketapp.Login.resources
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\obj\Release\Supermarketapp.Properties.Resources.resources
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\obj\Release\Supermarketapp.Reports.resources
+C:\Users\Rawad\Desktop\wassimsuper2\wassimsuper_v22\v.21\Supermarketapp\obj\Release\Supermarketapp.csproj.GenerateResource.Cache
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\bin\Release\Supermarketapp.exe.config
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\obj\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\obj\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\bin\Release\billing.cs
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\bin\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\bin\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\bin\Release\MySql.Data.DLL
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\obj\Release\Supermarketapp.csprojResolveAssemblyReference.cache
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\obj\Release\Supermarketapp.AddEmp.resources
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\obj\Release\Supermarketapp.Home_Emp.resources
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\obj\Release\Supermarketapp.HomeMan.resources
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\obj\Release\Supermarketapp.Invoices.resources
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\obj\Release\Supermarketapp.items.resources
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\obj\Release\Supermarketapp.Login.resources
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\obj\Release\Supermarketapp.Properties.Resources.resources
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\obj\Release\Supermarketapp.Reports.resources
+C:\Users\Rawad\Desktop\For sale supermarket\wassimsuper_v23\v.21\Supermarketapp\obj\Release\Supermarketapp.csproj.GenerateResource.Cache
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\bin\Release\Supermarketapp.exe.config
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\bin\Release\billing.cs
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\bin\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\bin\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\bin\Release\MySql.Data.DLL
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.csprojResolveAssemblyReference.cache
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.Home_Emp.resources
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.HomeMan.resources
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.Invoices.resources
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.items.resources
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.Login.resources
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.Properties.Resources.resources
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.Reports.resources
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.csproj.GenerateResource.Cache
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.AddEditEmp.resources
+C:\Users\Rawad\Desktop\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.chooseEmployeeAction.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\bin\Release\Supermarketapp.exe.config
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\bin\Release\billing.cs
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\bin\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\bin\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.csprojResolveAssemblyReference.cache
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.AddEditEmp.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.chooseEmployeeAction.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.Home_Emp.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.HomeMan.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.Invoices.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.items.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.Login.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.Properties.Resources.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.Reports.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v24\v.21\Supermarketapp\obj\Release\Supermarketapp.csproj.GenerateResource.Cache
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\bin\Release\Supermarketapp.exe.config
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\bin\Release\billing.cs
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\bin\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\bin\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.csprojResolveAssemblyReference.cache
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.AddEditEmp.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.chooseEmployeeAction.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.Home_Emp.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.HomeMan.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.Invoices.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.items.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.Login.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.Properties.Resources.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.Reports.resources
+C:\Users\Rawad\Desktop\supermarket13-1-2018\wassimsuper_v24\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.csproj.GenerateResource.Cache
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\bin\Release\Supermarketapp.exe.config
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\bin\Release\billing.cs
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\bin\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\bin\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\bin\Release\MySql.Data.DLL
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.csprojResolveAssemblyReference.cache
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.AddEditEmp.resources
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.chooseEmployeeAction.resources
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.Home_Emp.resources
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.HomeMan.resources
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.Invoices.resources
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.items.resources
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.Login.resources
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.Properties.Resources.resources
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.Reports.resources
+C:\Users\Rawad\Desktop\27-1-2018 supermarket\wassimsuper_v2\v.21\Supermarketapp\obj\Release\Supermarketapp.csproj.GenerateResource.Cache
+C:\Users\Rawad\Desktop\supermarket\supermarket_11_08_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\Supermarketapp.exe.config
+C:\Users\Rawad\Desktop\supermarket\supermarket_11_08_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\supermarket\supermarket_11_08_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\Supermarketapp.exe.config
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\billing.cs
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.csprojResolveAssemblyReference.cache
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.AddEditEmp.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.chooseEmployeeAction.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Home_Emp.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.HomeMan.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Invoices.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.items.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Login.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Properties.Resources.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Reports.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_19_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.csproj.GenerateResource.Cache
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\Supermarketapp.exe.config
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\billing.cs
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\Supermarketapp.exe
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\Supermarketapp.pdb
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.csprojResolveAssemblyReference.cache
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.AddEditEmp.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.chooseEmployeeAction.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Home_Emp.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.HomeMan.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Invoices.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.items.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Login.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Properties.Resources.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Reports.resources
+C:\Users\Rawad\Desktop\supermarket\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\Supermarketapp.exe.config
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.exe
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.pdb
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\billing.cs
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\Supermarketapp.exe
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\Supermarketapp.pdb
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.AddEditEmp.resources
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.chooseEmployeeAction.resources
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Home_Emp.resources
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.HomeMan.resources
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Invoices.resources
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.items.resources
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Login.resources
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Properties.Resources.resources
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Reports.resources
+C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.csproj.GenerateResource.Cache
