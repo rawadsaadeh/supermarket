@@ -87,6 +87,7 @@
     <Compile Include="HomeMan.Designer.cs">
       <DependentUpon>HomeMan.cs</DependentUpon>
     </Compile>
+    <Compile Include="InvoiceDataModel.cs" />
     <Compile Include="Invoices.cs">
       <SubType>Form</SubType>
     </Compile>

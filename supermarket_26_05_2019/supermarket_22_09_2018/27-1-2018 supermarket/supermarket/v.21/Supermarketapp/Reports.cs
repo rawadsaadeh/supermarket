@@ -96,8 +96,8 @@ namespace Supermarketapp
                 int y = 0;
                 for (int i = 0; i < length; i ++)
                 {
-                    ReportsDataModel reportDataModel = data[i] as ReportsDataModel;
                     dataGridView1.Rows.Add();
+                    ReportsDataModel reportDataModel = data[i] as ReportsDataModel;
                     dataGridView1.Rows[y].Cells[0].Value = reportDataModel.invoice_id;
                     dataGridView1.Rows[y].Cells[1].Value = reportDataModel.total_price;
                     dataGridView1.Rows[y].Cells[2].Value = reportDataModel.datetime;
@@ -266,19 +266,20 @@ namespace Supermarketapp
             details = rc.show_invoice_details(inv);
 
             cost = rc.getcost(inv);
-            int lenght = 0;
-            lenght = details.Count;
+            int length = 0;
+            length = details.Count;
             int y = 0;
             double discount = 1;
-            for (int i = 0; i < lenght; i += 4)
+            for (int i = 0; i < length; i++)
             {
                 dataGridView2.Rows.Add();
-                dataGridView2.Rows[y].Cells[0].Value = details[i];
-                dataGridView2.Rows[y].Cells[1].Value = details[i + 1];
-                dataGridView2.Rows[y].Cells[2].Value = details[i + 2];
+                InvoiceDataModel invoiceModel = details[i] as InvoiceDataModel;
+                dataGridView2.Rows[y].Cells[0].Value = invoiceModel.item_name;
+                dataGridView2.Rows[y].Cells[1].Value = invoiceModel.real_time_price;
+                dataGridView2.Rows[y].Cells[2].Value = invoiceModel.quantity_purchased;
                 dataGridView2.Rows[y].Cells[3].Value = "Delete";
                 totalinv += Convert.ToInt64(dataGridView2.Rows[y].Cells[1].Value) * Convert.ToInt64(dataGridView2.Rows[y].Cells[2].Value);
-                discount = Convert.ToDouble(details[i + 3]);
+                discount = Convert.ToDouble(invoiceModel.discount);
                 y++;
             }
             label12.Text = totalinv-(totalinv*discount) + ""; 
@@ -457,14 +458,15 @@ namespace Supermarketapp
             dtInvoice.Columns.Add("PRICE", typeof(long));
             
 
-            for (int i = 0; i < details.Count; i += 4)
+            for (int i = 0; i < details.Count; i++)
             {
                 DataRow itemPrice = dtInvoice.NewRow();
-                
-                itemPrice["ITEM"] = details[i].ToString() +" * "+details[i+2];
-                long item_price=Convert.ToInt64(details[i + 1]);
-                long item_quantity_purschsed=Convert.ToInt64(details[i + 2]);
-                long total=item_price*item_quantity_purschsed;
+
+                InvoiceDataModel invoiceModel = details[i] as InvoiceDataModel;
+                itemPrice["ITEM"] = invoiceModel.item_name +" * "+ invoiceModel.quantity_purchased;
+                long item_price=Convert.ToInt64(invoiceModel.real_time_price);
+                long item_quantity_purchased=Convert.ToInt64(invoiceModel.quantity_purchased);
+                long total=item_price*item_quantity_purchased;
                 itemPrice["PRICE"] = total;
                 dtInvoice.Rows.Add(itemPrice);
             }

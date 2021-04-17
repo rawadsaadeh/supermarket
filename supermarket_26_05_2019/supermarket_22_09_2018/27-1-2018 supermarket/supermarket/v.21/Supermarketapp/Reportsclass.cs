@@ -63,10 +63,16 @@ namespace Supermarketapp
                 MyReader = cmd.ExecuteReader();
                 while (MyReader.Read())
                 {
-                    detailing.Add(MyReader[0]);
-                    detailing.Add(MyReader[1]);
-                    detailing.Add(MyReader[2]);
-                    detailing.Add(MyReader[3]);
+
+                     InvoiceDataModel invoiceModel = new InvoiceDataModel(
+                        MyReader[0] as string,
+                        Convert.ToInt32(MyReader[1]),
+                        Convert.ToInt32(MyReader[2]),
+                        Convert.ToInt32(MyReader[3])
+                     );
+
+                    detailing.Add(invoiceModel);
+
                 }
                 conn2.Close();
                 return detailing;
