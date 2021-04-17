@@ -96,9 +96,7 @@ namespace Supermarketapp
                 int y = 0;
                 for (int i = 0; i < length; i ++)
                 {
-                    reportsDataModel reportDataModel = new reportsDataModel();
-                    reportDataModel = data[i] as reportsDataModel;
-                    reportDataModel =  reportDataModel.get();
+                    ReportsDataModel reportDataModel = data[i] as ReportsDataModel;
                     dataGridView1.Rows.Add();
                     dataGridView1.Rows[y].Cells[0].Value = reportDataModel.invoice_id;
                     dataGridView1.Rows[y].Cells[1].Value = reportDataModel.total_price;

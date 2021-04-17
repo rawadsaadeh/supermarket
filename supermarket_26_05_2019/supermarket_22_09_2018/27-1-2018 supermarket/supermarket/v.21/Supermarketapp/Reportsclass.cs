@@ -32,25 +32,15 @@ namespace Supermarketapp
             MyReader = cmd.ExecuteReader();
             while (MyReader.Read())
             {
-                reportsDataModel reportDataModel = new reportsDataModel();
-
-                reportDataModel.set(
+                ReportsDataModel reportDataModel = new ReportsDataModel(
                     Convert.ToInt32(MyReader[0]),
                     Convert.ToInt32(MyReader[1]),
                     Convert.ToDateTime(MyReader[2]),
                     MyReader[3] as string,
                     Convert.ToInt32(MyReader[4]),
                     Convert.ToInt32(MyReader[5]),
-                    Convert.ToInt32(MyReader[6])
+                    Convert.ToInt32(MyReader[6])    
                 );
-                
-              //  Number_of_invoices_id.Add(MyReader[0]);
-              //  Number_of_invoices_id.Add(MyReader[1]);
-              //  Number_of_invoices_id.Add(MyReader[2]);
-              //  Number_of_invoices_id.Add(MyReader[3]);
-              //  Number_of_invoices_id.Add(MyReader[4]);
-              //  Number_of_invoices_id.Add(MyReader[5]);
-              //  Number_of_invoices_id.Add(MyReader[6]);
                 Number_of_invoices_id.Add(reportDataModel);
             }
             conn2.Close();
