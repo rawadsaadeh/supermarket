@@ -116,6 +116,7 @@
       <DependentUpon>Reports.cs</DependentUpon>
     </Compile>
     <Compile Include="Reportsclass.cs" />
+    <Compile Include="reportsDataModel.cs" />
     <EmbeddedResource Include="AddEditEmp.resx">
       <DependentUpon>AddEditEmp.cs</DependentUpon>
     </EmbeddedResource>

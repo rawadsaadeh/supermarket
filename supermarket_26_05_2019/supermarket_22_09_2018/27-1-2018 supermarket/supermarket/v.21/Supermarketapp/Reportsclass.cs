@@ -26,19 +26,32 @@ namespace Supermarketapp
             string query;
             conn2.Open();
             MySqlDataReader MyReader;
-
+            
             query = "select t2.invoice_id,(t2.totalp-(t2.totalp*if(discount=1.00,0,discount) )) as totalp,account.datetime1,added_by_username,CASE WHEN discount = 1.00 THEN 0 ELSE discount*100 END AS discount,account.cash_in,account.cash_out from (select t1.invoice_id,sum(price) as totalp from (select invoice.invoice_id,invoice.item_id,(invoice.quantity_purchased*invoice.real_time_price) as price from invoice,items  where invoice.item_id=items.item_id) as t1 group by t1.invoice_id) as t2,account where t2.invoice_id=account.invoice_id  and datetime1 between" + '"' + datetime + " 00:00:00" + '"' + "and" + '"' + datetime + " 23:59:59" + '"' + ";";
             MySqlCommand cmd = new MySqlCommand(query, conn2);
             MyReader = cmd.ExecuteReader();
             while (MyReader.Read())
             {
-                Number_of_invoices_id.Add(MyReader[0]);
-                Number_of_invoices_id.Add(MyReader[1]);
-                Number_of_invoices_id.Add(MyReader[2]);
-                Number_of_invoices_id.Add(MyReader[3]);
-                Number_of_invoices_id.Add(MyReader[4]);
-                Number_of_invoices_id.Add(MyReader[5]);
-                Number_of_invoices_id.Add(MyReader[6]);
+                reportsDataModel reportDataModel = new reportsDataModel();
+
+                reportDataModel.set(
+                    Convert.ToInt32(MyReader[0]),
+                    Convert.ToInt32(MyReader[1]),
+                    Convert.ToDateTime(MyReader[2]),
+                    MyReader[3] as string,
+                    Convert.ToInt32(MyReader[4]),
+                    Convert.ToInt32(MyReader[5]),
+                    Convert.ToInt32(MyReader[6])
+                );
+                
+              //  Number_of_invoices_id.Add(MyReader[0]);
+              //  Number_of_invoices_id.Add(MyReader[1]);
+              //  Number_of_invoices_id.Add(MyReader[2]);
+              //  Number_of_invoices_id.Add(MyReader[3]);
+              //  Number_of_invoices_id.Add(MyReader[4]);
+              //  Number_of_invoices_id.Add(MyReader[5]);
+              //  Number_of_invoices_id.Add(MyReader[6]);
+                Number_of_invoices_id.Add(reportDataModel);
             }
             conn2.Close();
             return Number_of_invoices_id;

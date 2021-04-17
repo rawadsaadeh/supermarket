@@ -12,6 +12,7 @@ using System.Collections;
 using System.Net.NetworkInformation;
 using System.Configuration;
 using System.Diagnostics;
+using Supermarketapp;
 
 namespace Supermarketapp
 {
@@ -86,23 +87,26 @@ namespace Supermarketapp
                 totalday = 0;
                 label13.Text = "Profit : " + dailyprofit + " LBP";
                 dailyprofit = "0";
-                int lenght = 0;
-                lenght = data.Count;
+                int length = 0;
+                length = data.Count;
                 if (dataGridView2.Rows.Count==0) 
                 {
                     label4.Text = "";
                 }
                 int y = 0;
-                for (int i = 0; i < lenght; i += 7)
+                for (int i = 0; i < length; i ++)
                 {
+                    reportsDataModel reportDataModel = new reportsDataModel();
+                    reportDataModel = data[i] as reportsDataModel;
+                    reportDataModel =  reportDataModel.get();
                     dataGridView1.Rows.Add();
-                    dataGridView1.Rows[y].Cells[0].Value = data[i];
-                    dataGridView1.Rows[y].Cells[1].Value = data[i + 1];
-                    dataGridView1.Rows[y].Cells[2].Value = data[i + 2];
-                    dataGridView1.Rows[y].Cells[3].Value = data[i + 3];
-                    dataGridView1.Rows[y].Cells[4].Value = data[i + 4];
-                    dataGridView1.Rows[y].Cells[5].Value = data[i + 5];
-                    dataGridView1.Rows[y].Cells[6].Value = data[i + 6];
+                    dataGridView1.Rows[y].Cells[0].Value = reportDataModel.invoice_id;
+                    dataGridView1.Rows[y].Cells[1].Value = reportDataModel.total_price;
+                    dataGridView1.Rows[y].Cells[2].Value = reportDataModel.datetime;
+                    dataGridView1.Rows[y].Cells[3].Value = reportDataModel.added_by_username;
+                    dataGridView1.Rows[y].Cells[4].Value = reportDataModel.discount;
+                    dataGridView1.Rows[y].Cells[5].Value = reportDataModel.cash_in;
+                    dataGridView1.Rows[y].Cells[6].Value = reportDataModel.cash_out;
                     dataGridView1.Rows[y].Cells[7].Value = "Show Details";
                     dataGridView1.Rows[y].Cells[8].Value = "Delete";
                     dataGridView1.Rows[y].Cells[9].Value = "Print";

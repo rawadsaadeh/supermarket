@@ -184,3 +184,20 @@ C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 su
 C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Properties.Resources.resources
 C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Reports.resources
 C:\Users\User\Desktop\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\Supermarketapp.exe.config
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.exe
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.pdb
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\billing.cs
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\Supermarketapp.exe
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\bin\Release\Supermarketapp.pdb
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.AddEditEmp.resources
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.chooseEmployeeAction.resources
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Home_Emp.resources
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.HomeMan.resources
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Invoices.resources
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.items.resources
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Login.resources
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Properties.Resources.resources
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.Reports.resources
+C:\Users\User\Desktop\Supermarket git\supermarket\supermarket_26_05_2019\supermarket_22_09_2018\27-1-2018 supermarket\supermarket\v.21\Supermarketapp\obj\Release\Supermarketapp.csproj.GenerateResource.Cache
